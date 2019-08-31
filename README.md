@@ -28,6 +28,6 @@ The models I recieved from Amazon did not have board labels like the picture on 
 
 All of this works and is an extension on some work that I found that was the only work that works with this model Collar.
 Sidenote: It is the simplest thing I could find, to get the collar working with a 433 mhz transmitter out of the box.
-Also: You will have to pull the batteries out of your remote, upload the sketch, reset the board, and then put the batteries back in so the collar and board boots up around the same time. If you hear a beep and a vibrate, it probably synced (linked the remote and collar together).
+Also: You will have to pull the batteries out of your collar, upload the sketch, reset the arduino board, and then put the batteries back in so the collar and board boots up around the same time. If you hear a beep and a vibrate, it probably synced (linked the remote and collar together).
 
 Good Luck, and Happy Hacking.
